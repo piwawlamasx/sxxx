@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "_id": "cabf2268-1f44-4510-8286-c7f86e00ba10",
+    "url": "https://example.com",
+    "domain": "example.com",
+    "title": "Example Domain",
+    "content": "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+    "keywords": [
+      "domain",
+      "use",
+      "in",
+      "example",
+      "this",
+      "is",
+      "for",
+      "documentation",
+      "examples",
+      "without",
+      "needing",
+      "permission",
+      "avoid",
+      "operations"
+    ],
+    "indexed_at": "2025-12-23T13:25:26.609Z"
+  }
+]
