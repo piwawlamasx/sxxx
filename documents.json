@@ -6366,5 +6366,47 @@
       "enter"
     ],
     "indexed_at": "2025-12-23T15:59:08.745Z"
+  },
+  {
+    "_id": "d209e34a-cfbb-41ec-8fbd-927eb3e350ab",
+    "url": "https://velyn.mom/apis/search/lyric",
+    "domain": "velyn.mom",
+    "title": "VelynAPIs - Search Lyric",
+    "content": "Search for content across various platforms Explore various powerful and easy-to-use VelynAPIs by Velyn. Toggle themeVelynAPIs — Lyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.HomeLyricHomeVelynAPIsSearchLyricLyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.EndpointParametersRequestResponseGET /api/search/lirik VelynAPIs — Lyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.HomeLyricHomeVelynAPIsSearchLyricLyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.EndpointParametersRequestResponseGET /api/search/lirik VelynAPIs — Lyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.HomeLyricHomeVelynAPIsSearchLyricLyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.EndpointParametersRequestResponseGET /api/search/lirik VelynAPIs — Lyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.HomeLyricHomeVelynAPIsSearchLyricLyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.EndpointParametersRequestResponseGET /api/search/lirik VelynAPIs — Lyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.HomeLyricHomeVelynAPIsSearchLyric VelynAPIs — Lyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL. VelynAPIs — Lyric Song Search for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL. HomeLyricHomeVelynAPIsSearchLyric HomeVelynAPIsSearchLyric Lyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.EndpointParametersRequestResponseGET /api/search/lirik Lyric SongSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL. Search for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL. Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.EndpointParametersRequestResponseGET /api/search/lirik Test the APIEnter a URL to download or extract media contentApikeyQuerySearch Test the APIEnter a URL to download or extract media content Enter a URL to download or extract media content API DocumentationGETSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL.EndpointParametersRequestResponseGET /api/search/lirik API DocumentationGETSearch for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL. Search for song lyrics by keyword (title, artist) and get song ID, artist name, title, and lyrics URL. EndpointParametersRequestResponseGET /api/search/lirik EndpointParametersRequestResponseGET /api/search/lirik EndpointParametersRequestResponse EndpointParametersRequestResponse GET /api/search/lirik GET /api/search/lirik",
+    "keywords": [
+      "song",
+      "lyrics",
+      "title",
+      "artist",
+      "url",
+      "keyword",
+      "search",
+      "api",
+      "songsearch",
+      "lirik",
+      "lyric",
+      "download",
+      "extract",
+      "endpointparametersrequestresponseget",
+      "velynapis",
+      "apienter",
+      "documentationgetsearch",
+      "contentapikeyquerysearchapi",
+      "homelyrichomevelynapissearchlyriclyric",
+      "content",
+      "homelyrichomevelynapissearchlyric",
+      "endpointparametersrequestresponse",
+      "platforms",
+      "explore",
+      "powerful",
+      "easy",
+      "velyn",
+      "toggle",
+      "themevelynapis",
+      "homevelynapissearchlyric",
+      "contentapikeyquerysearch",
+      "enter"
+    ],
+    "indexed_at": "2025-12-23T15:59:17.768Z"
   }
 ]
