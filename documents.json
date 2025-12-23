@@ -6100,5 +6100,47 @@
       "enter"
     ],
     "indexed_at": "2025-12-23T15:58:14.505Z"
+  },
+  {
+    "_id": "5b1c583e-a2fd-4e3b-af94-3f8e5588544f",
+    "url": "https://velyn.mom/apis/search/chord",
+    "domain": "velyn.mom",
+    "title": "VelynAPIs - Search Lyric",
+    "content": "Search for content across various platforms Explore various powerful and easy-to-use VelynAPIs by Velyn. Toggle themeVelynAPIs — Lyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.HomeChordHomeVelynAPIsSearchChordLyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.EndpointParametersRequestResponseGET /api/search/chord VelynAPIs — Lyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.HomeChordHomeVelynAPIsSearchChordLyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.EndpointParametersRequestResponseGET /api/search/chord VelynAPIs — Lyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.HomeChordHomeVelynAPIsSearchChordLyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.EndpointParametersRequestResponseGET /api/search/chord VelynAPIs — Lyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.HomeChordHomeVelynAPIsSearchChordLyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.EndpointParametersRequestResponseGET /api/search/chord VelynAPIs — Lyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.HomeChordHomeVelynAPIsSearchChord VelynAPIs — Lyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL. VelynAPIs — Lyric Chord Song Search for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL. HomeChordHomeVelynAPIsSearchChord HomeVelynAPIsSearchChord Lyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.EndpointParametersRequestResponseGET /api/search/chord Lyric Chord SongSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL. Search for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL. Test the APIEnter a URL to download or extract media contentApikeyQuerySearchAPI DocumentationGETSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.EndpointParametersRequestResponseGET /api/search/chord Test the APIEnter a URL to download or extract media contentApikeyQuerySearch Test the APIEnter a URL to download or extract media content Enter a URL to download or extract media content API DocumentationGETSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL.EndpointParametersRequestResponseGET /api/search/chord API DocumentationGETSearch for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL. Search for song lyrics chord by keyword (title, artist) and get song ID, artist name, title, and lyrics chord URL. EndpointParametersRequestResponseGET /api/search/chord EndpointParametersRequestResponseGET /api/search/chord EndpointParametersRequestResponse EndpointParametersRequestResponse GET /api/search/chord GET /api/search/chord",
+    "keywords": [
+      "chord",
+      "song",
+      "lyrics",
+      "title",
+      "artist",
+      "url",
+      "keyword",
+      "search",
+      "api",
+      "songsearch",
+      "lyric",
+      "download",
+      "extract",
+      "endpointparametersrequestresponseget",
+      "velynapis",
+      "apienter",
+      "documentationgetsearch",
+      "contentapikeyquerysearchapi",
+      "homechordhomevelynapissearchchordlyric",
+      "content",
+      "homechordhomevelynapissearchchord",
+      "endpointparametersrequestresponse",
+      "platforms",
+      "explore",
+      "powerful",
+      "easy",
+      "velyn",
+      "toggle",
+      "themevelynapis",
+      "homevelynapissearchchord",
+      "contentapikeyquerysearch",
+      "enter"
+    ],
+    "indexed_at": "2025-12-23T15:58:22.633Z"
   }
 ]
