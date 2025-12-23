@@ -1575,5 +1575,29 @@
       "information"
     ],
     "indexed_at": "2025-12-23T15:06:04.255Z"
+  },
+  {
+    "_id": "aadd18bd-f61b-47bb-ad2d-fa38700f8991",
+    "url": "https://example.com",
+    "domain": "example.com",
+    "title": "Example Domain",
+    "content": "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+    "keywords": [
+      "domain",
+      "use",
+      "in",
+      "example",
+      "this",
+      "is",
+      "for",
+      "documentation",
+      "examples",
+      "without",
+      "needing",
+      "permission",
+      "avoid",
+      "operations"
+    ],
+    "indexed_at": "2025-12-23T15:17:14.113Z"
   }
 ]
