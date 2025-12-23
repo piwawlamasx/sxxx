@@ -18,5 +18,9 @@
   {
     "domain": "github.community",
     "count": 1
+  },
+  {
+    "domain": "example.com",
+    "count": 1
   }
 ]
