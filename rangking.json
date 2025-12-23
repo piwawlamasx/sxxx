@@ -1,6 +1,22 @@
 [
   {
-    "domain": "example.com",
+    "domain": "my.id",
+    "count": 1
+  },
+  {
+    "domain": "github.com",
+    "count": 1
+  },
+  {
+    "domain": "github.blog",
+    "count": 1
+  },
+  {
+    "domain": "githubstatus.com",
+    "count": 1
+  },
+  {
+    "domain": "github.community",
     "count": 1
   }
 ]
