@@ -626,5 +626,24 @@
       "vtx"
     ],
     "indexed_at": "2025-12-23T15:51:26.261Z"
+  },
+  {
+    "_id": "066f69ce-49df-4dc3-b619-fe6b3d24a799",
+    "url": "https://vtx.my.id/anime.html",
+    "domain": "my.id",
+    "title": "Anime Finder - AniList",
+    "content": "Home\n            Anime\n            React 🎌 Anime Finder\n            Cari informasi anime lengkap menggunakan AniList API\n        \n\n        \n            \n                \n                Cari\n            \n            \n        \n\n        \n            \n            Mencari anime...\n        \n\n        \n\n        \n        \n            \n                × 🎌 Anime Finder\n            Cari informasi anime lengkap menggunakan AniList API Cari informasi anime lengkap menggunakan AniList API",
+    "keywords": [
+      "anime",
+      "anilist",
+      "cari",
+      "finder",
+      "informasi",
+      "lengkap",
+      "api",
+      "react",
+      "mencari"
+    ],
+    "indexed_at": "2025-12-23T15:51:32.304Z"
   }
 ]
