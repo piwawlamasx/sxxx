@@ -1,5 +1,9 @@
 [
   {
+    "domain": "github.com",
+    "count": 28
+  },
+  {
     "domain": "velyn.mom",
     "count": 27
   },
@@ -9,7 +13,7 @@
   },
   {
     "domain": "my.id",
-    "count": 11
+    "count": 12
   },
   {
     "domain": "qzz.io",
@@ -41,6 +45,82 @@
   },
   {
     "domain": "biz.id",
+    "count": 1
+  },
+  {
+    "domain": "fly.dev",
+    "count": 1
+  },
+  {
+    "domain": "granitebps.com",
+    "count": 1
+  },
+  {
+    "domain": "newsapi.org",
+    "count": 1
+  },
+  {
+    "domain": "weatherapi.com",
+    "count": 1
+  },
+  {
+    "domain": "github.io",
+    "count": 1
+  },
+  {
+    "domain": "blibli.com",
+    "count": 1
+  },
+  {
+    "domain": "lazada.com",
+    "count": 1
+  },
+  {
+    "domain": "shopee.com",
+    "count": 1
+  },
+  {
+    "domain": "tokopedia.com",
+    "count": 1
+  },
+  {
+    "domain": "goapi.io",
+    "count": 1
+  },
+  {
+    "domain": "co.id",
+    "count": 1
+  },
+  {
+    "domain": "getpostman.com",
+    "count": 1
+  },
+  {
+    "domain": "coinmarketcap.com",
+    "count": 1
+  },
+  {
+    "domain": "doku.com",
+    "count": 1
+  },
+  {
+    "domain": "duitku.com",
+    "count": 1
+  },
+  {
+    "domain": "espay.id",
+    "count": 1
+  },
+  {
+    "domain": "codeberg.org",
+    "count": 1
+  },
+  {
+    "domain": "api-docs.io",
+    "count": 1
+  },
+  {
+    "domain": "midtrans.com",
     "count": 1
   }
 ]
