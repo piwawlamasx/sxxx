@@ -544,5 +544,341 @@
     "title": "Anime Generator - Transform Photos to Anime",
     "domain": "biz.id",
     "indexed_at": "2025-12-23T17:14:21.020Z"
+  },
+  {
+    "_id": "ab644e24-63d0-4f88-9d9b-d62c343e4979",
+    "url": "https://github.com/wanrabbae/al-quran-indonesia-api",
+    "title": "GitHub - wanrabbae/al-quran-indonesia-api: API gratis untuk Al-Qur'an Bahasa Indonesia beserta Audionya",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:24:22.594Z"
+  },
+  {
+    "_id": "bb8e3794-9c55-482a-b049-2b1cf7296096",
+    "url": "https://github.com/bachors/Al-Quran-ID-API",
+    "title": "GitHub - bachors/Al-Quran-ID-API: Al-Quran API Terjemahan Indonesia Beserta Audio.",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:24:28.149Z"
+  },
+  {
+    "_id": "6acb9858-4836-4202-830f-3373e26daf23",
+    "url": "https://doa-doa-api-ahmadramadhan.fly.dev",
+    "title": "API Doa - Doa / Ahmad Ramadhan",
+    "domain": "fly.dev",
+    "indexed_at": "2025-12-23T17:24:30.037Z"
+  },
+  {
+    "_id": "30a1db3d-e7ae-4dcb-9512-bdf16d512b8f",
+    "url": "https://github.com/fitrahive",
+    "title": "Fitrahive · GitHub",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:24:33.842Z"
+  },
+  {
+    "_id": "8f353bb1-c4f4-4cd6-a99c-2edcc5751d3d",
+    "url": "https://github.com/fitrahive/dua-dhikr",
+    "title": "GitHub - fitrahive/dua-dhikr: :kaaba: Authentic Sunnah Dua & Dhikr RESTful API.",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:24:38.993Z"
+  },
+  {
+    "_id": "bc3d4fbb-d28f-47f5-9da5-2a7101c23e8d",
+    "url": "https://github.com/kyyril",
+    "title": "kyyril (Khairil Rahman Hakiki) · GitHub",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:24:43.407Z"
+  },
+  {
+    "_id": "d70cb577-96f2-4677-9ed6-65e6a03aaa0c",
+    "url": "https://github.com/kyyril/hadith-api",
+    "title": "GitHub - kyyril/hadith-api: Hadith API with 9 narrators, BAHASA translation stored in local JSON file.",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:24:48.485Z"
+  },
+  {
+    "_id": "6bd1b6d8-46e4-4747-b678-c461a27989a4",
+    "url": "https://github.com/dyazincahya/quran-api-with-php-codeigniter",
+    "title": "GitHub - dyazincahya/quran-api-with-php-codeigniter: Holy Quran API | 6236 verses, 114 surah, 30 Juz | <[PHP 7 & Codeigniter 3] ~ [PHP 8 & Codeigniter 4]>",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:24:53.941Z"
+  },
+  {
+    "_id": "36a3ad03-d2ac-4fa6-b708-09ad66d1d6d2",
+    "url": "https://github.com/lakuapik/jadwalsholatorg",
+    "title": "GitHub - lakuapik/jadwalsholatorg: Parsed data from website https://jadwalsholat.org",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:24:58.489Z"
+  },
+  {
+    "_id": "f4137076-cc1d-44ba-ad3f-71137f92e805",
+    "url": "https://api.puasa-sunnah.granitebps.com/swagger/index.html",
+    "title": "Swagger UI",
+    "domain": "granitebps.com",
+    "indexed_at": "2025-12-23T17:25:02.968Z"
+  },
+  {
+    "_id": "950e4b6d-bc28-49f6-9531-9d362a2e6b8f",
+    "url": "https://github.com/Polyvor-Labs",
+    "title": "Polyvor Labs · GitHub",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:25:06.595Z"
+  },
+  {
+    "_id": "91074740-f9d4-4b28-b3ab-a8582d27dd41",
+    "url": "https://api.qalbun.my.id",
+    "title": "Qalbun API - Documentation",
+    "domain": "my.id",
+    "indexed_at": "2025-12-23T17:25:16.018Z"
+  },
+  {
+    "_id": "b6b263c7-1da1-462b-9bc0-8af12339dc94",
+    "url": "https://github.com/rzkytmgr/quran-api",
+    "title": "GitHub - rzkytmgr/quran-api: Multi-language qur'an restful API including surah, ayah, audio with custom reciters. Easy to integrate to your front-end project",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:25:22.729Z"
+  },
+  {
+    "_id": "6153ae87-c065-46ff-8f76-24683a6cfbc4",
+    "url": "https://github.com/renomureza/quran-api-id",
+    "title": "GitHub - renomureza/quran-api-id: REST API Al-Quran Indonesia dengan terjemahan, tafsir (Kemenag, Quraish Shihab, Al-Jalalain), audio murottal (per surah dan ayat dari 6 qori), random ayat.",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:25:29.535Z"
+  },
+  {
+    "_id": "7b0a5563-1feb-40fd-9f52-56f03e8ff754",
+    "url": "https://github.com/penggguna/QuranJSON",
+    "title": "GitHub - penggguna/QuranJSON: Simplified Perfect Complete Quran JSON (Indonesia Translation, Tafsir, and Audio) with API",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:25:34.471Z"
+  },
+  {
+    "_id": "b3841130-86a2-48d7-ada7-2684bd4175f2",
+    "url": "https://github.com/maftuh23/waktu-sholat",
+    "title": "GitHub - maftuh23/waktu-sholat: API Waktu Sholat Indonesia",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:25:40.237Z"
+  },
+  {
+    "_id": "51f199e9-ae26-456c-b781-bc48aecf6837",
+    "url": "https://github.com/renomureza/api-berita-indonesia",
+    "title": "GitHub - renomureza/api-berita-indonesia: RSS Feed REST API Berita Indonesia JSON.",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:25:44.912Z"
+  },
+  {
+    "_id": "afd73dc7-bdbe-444a-8218-90bc6b4401a6",
+    "url": "https://github.com/satyawikananda/berita-indo-api",
+    "title": "GitHub - satyawikananda/berita-indo-api: An api to display news in Indonesia",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:25:50.782Z"
+  },
+  {
+    "_id": "50c4344a-0560-4f50-88e4-e87487b8299f",
+    "url": "https://github.com/rizki4106/cnnindonesia-news-api",
+    "title": "GitHub - rizki4106/cnnindonesia-news-api: Unofficial CNN Indonesia news API",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:25:55.611Z"
+  },
+  {
+    "_id": "5a3f231c-f963-4497-a60e-f2fdc18dc3a7",
+    "url": "https://github.com/Ucok23/detiknews_api",
+    "title": "GitHub - Ucok23/detiknews_api: Detik News Search Unofficial API",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:26:00.830Z"
+  },
+  {
+    "_id": "5ba4b192-75ad-485c-b6cf-10e0ddbb2ba3",
+    "url": "https://newsapi.org/s/indonesia-news-api",
+    "title": "Indonesia News API - Live top headlines from Indonesia",
+    "domain": "newsapi.org",
+    "indexed_at": "2025-12-23T17:26:06.085Z"
+  },
+  {
+    "_id": "0ae18da0-e5e3-4f71-ace4-9d783304632e",
+    "url": "https://github.com/faruqmaulana/JAKARTA-POST-API",
+    "title": "GitHub - faruqmaulana/JAKARTA-POST-API: JAKARTA POST API merupakan API hasil scraping website media berita Jakarta Post. API ini tidak hanya menyajikan data berita, melainkan juga data podcast yang didalamnya memuat link file audio (.mp3).",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:26:12.137Z"
+  },
+  {
+    "_id": "18394e67-697b-4d7d-a208-ad82083d4fbb",
+    "url": "https://github.com/NicolaDonoastro/The-Lazy-Media-api",
+    "title": "GitHub - NicolaDeastra/The-Lazy-Media-api: Unofficial The Lazy Media API",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:26:21.963Z"
+  },
+  {
+    "_id": "c5e79633-e905-46db-b84c-6bd8205b0dda",
+    "url": "https://github.com/tomorisakura/unofficial-masakapahariini-api",
+    "title": "GitHub - tomorisakura/unofficial-masakapahariini-api: Book recipes api bahasa Indonesia 🇮🇩 🥗",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:26:29.999Z"
+  },
+  {
+    "_id": "ddf8d34a-0d69-4933-a523-784c020e7ee7",
+    "url": "https://github.com/yusuftaufiq/laravel-books-api",
+    "title": "GitHub - yusuftaufiq/laravel-books-api: Fully documented & tested Laravel 9 RESTful books API scraped from Gramedia.",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:26:35.542Z"
+  },
+  {
+    "_id": "982bb55d-dfb3-43d3-b533-e5c4e47e87d9",
+    "url": "https://github.com/raselldev/alkitab-api",
+    "title": "GitHub - raselldev/alkitab-api: Alkitab API base on sabda.org",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:26:40.757Z"
+  },
+  {
+    "_id": "de1fa93f-06b0-47aa-92db-5419c9790683",
+    "url": "https://github.com/pace11",
+    "title": "pace11 (Muhammad Iriansyah) · GitHub",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:26:45.964Z"
+  },
+  {
+    "_id": "d4381058-cfea-4bb1-9ab5-a7c540dcdcbe",
+    "url": "https://github.com/pace11/weather-api",
+    "title": "GitHub - pace11/weather-api: Unofficial Weather API Wrapper Easy to use in Graphql. Reference from API BMKG (Badan Meteorologi, Klimatologi, dan Geofisika) https://data.bmkg.go.id",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:26:51.089Z"
+  },
+  {
+    "_id": "6e532303-192f-4edf-abf1-f1d19e212564",
+    "url": "https://www.weatherapi.com",
+    "title": "Free Weather API - WeatherAPI.com",
+    "domain": "weatherapi.com",
+    "indexed_at": "2025-12-23T17:26:58.146Z"
+  },
+  {
+    "_id": "dcf3e9e5-bad8-4738-9921-1a4fd4d5b3e3",
+    "url": "https://ibnux.github.io/BMKG-importer/#pakai-langsung",
+    "title": "Importer Data Prakiraan Cuaca BMKG | BMKG-importer",
+    "domain": "github.io",
+    "indexed_at": "2025-12-23T17:27:02.147Z"
+  },
+  {
+    "_id": "700d312d-7c68-4982-b0c1-81c745ef215d",
+    "url": "https://github.com/renomureza/cuaca-gempa-rest-api",
+    "title": "GitHub - renomureza/cuaca-gempa-rest-api: REST API prakiraan cuaca 34 provinsi 3 harian dan gempa terkini, sumber BMKG",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:27:07.773Z"
+  },
+  {
+    "_id": "b7d3b49a-0e64-44b0-b24b-7f9b52f24347",
+    "url": "https://github.com/ariefmanda/openapi.de4a.space/docs",
+    "title": "Page not found · GitHub · GitHub",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:27:11.430Z"
+  },
+  {
+    "_id": "7f86f200-11fe-410b-bc2b-de11140a9d39",
+    "url": "https://seller-api.blibli.com/home",
+    "title": "Blibli Seller API - Features to support Blibli sellers | Blibli",
+    "domain": "blibli.com",
+    "indexed_at": "2025-12-23T17:27:25.365Z"
+  },
+  {
+    "_id": "85a53c4a-aa64-429e-9fcb-4902fb6e3fb1",
+    "url": "https://open.lazada.com/doc/doc.htm",
+    "title": "Getting Started - Lazada Open Platform",
+    "domain": "lazada.com",
+    "indexed_at": "2025-12-23T17:27:42.945Z"
+  },
+  {
+    "_id": "8d679623-dfe7-4fe0-8aac-5bc7be37aeca",
+    "url": "https://open.shopee.com/documents",
+    "title": "Developer Guide - Shopee Open Platform",
+    "domain": "shopee.com",
+    "indexed_at": "2025-12-23T17:27:57.395Z"
+  },
+  {
+    "_id": "8585e88b-ada8-4933-8baa-3376ae2c9117",
+    "url": "https://developer.tokopedia.com/openapi/guide",
+    "title": "TikTok Shop Partner Center",
+    "domain": "tokopedia.com",
+    "indexed_at": "2025-12-23T17:28:12.281Z"
+  },
+  {
+    "_id": "f662d08e-8c62-4df8-ab0a-9ebe7bb0fd95",
+    "url": "https://goapi.io/api-data-saham-indonesia",
+    "title": "API Data Saham Indonesia - GOAPI.IO",
+    "domain": "goapi.io",
+    "indexed_at": "2025-12-23T17:28:17.441Z"
+  },
+  {
+    "_id": "b1f2c972-c499-42f2-807e-e76f7a24e855",
+    "url": "https://github.com/cacing69/logam-mulia-api/blob/main/README.md",
+    "title": "logam-mulia-api/README.md at main · cacing69/logam-mulia-api · GitHub",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:28:22.642Z"
+  },
+  {
+    "_id": "480b38bc-efc3-4f06-a332-cd71c21c35f1",
+    "url": "https://developer.bca.co.id",
+    "title": "Developer API",
+    "domain": "co.id",
+    "indexed_at": "2025-12-23T17:28:34.137Z"
+  },
+  {
+    "_id": "89f77a7f-8f0e-452f-ac11-d18718cbb44c",
+    "url": "https://documenter.getpostman.com/view/367648/RzfZQZAL?version=latest",
+    "title": "BISATOPUP API",
+    "domain": "getpostman.com",
+    "indexed_at": "2025-12-23T17:28:41.986Z"
+  },
+  {
+    "_id": "889a5b35-c1c4-4760-8aef-3f9eb7ea7f5d",
+    "url": "https://coinmarketcap.com/api",
+    "title": "The World's Number 1 Cryptocurrency Market Data API",
+    "domain": "coinmarketcap.com",
+    "indexed_at": "2025-12-23T17:28:48.038Z"
+  },
+  {
+    "_id": "793ce791-4115-43f9-a327-cb6c0f2bdbd6",
+    "url": "https://github.com/azharimm/currency-exchange-api",
+    "title": "GitHub - azharimm/currency-exchange-api: Exchange rates API",
+    "domain": "github.com",
+    "indexed_at": "2025-12-23T17:28:52.623Z"
+  },
+  {
+    "_id": "18b76084-53ec-4187-9b43-8b420fb7f1f3",
+    "url": "https://www.doku.com/API/index.html",
+    "title": "Introduction – DOKU Payment API Documentation",
+    "domain": "doku.com",
+    "indexed_at": "2025-12-23T17:28:57.843Z"
+  },
+  {
+    "_id": "531837a4-8ab1-4e15-a1bb-4fad105fe2c7",
+    "url": "https://docs.duitku.com",
+    "title": "Mulai - Documentation - Duitku",
+    "domain": "duitku.com",
+    "indexed_at": "2025-12-23T17:29:01.401Z"
+  },
+  {
+    "_id": "853a31f8-75f0-4547-b95a-0464b26cc731",
+    "url": "https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php",
+    "title": "Espay Docs",
+    "domain": "espay.id",
+    "indexed_at": "2025-12-23T17:29:04.174Z"
+  },
+  {
+    "_id": "13903e73-e950-4733-9da6-8490febfdba9",
+    "url": "https://codeberg.org/bramaudi/gold-price",
+    "title": "bramaudi/gold-price: API Gold price exchange in USD, IDR - Codeberg.org",
+    "domain": "codeberg.org",
+    "indexed_at": "2025-12-23T17:29:10.866Z"
+  },
+  {
+    "_id": "bc4b2471-5427-431c-89bb-6fc8879f2333",
+    "url": "https://api-jurnal.api-docs.io/v1/getting-started/introduction",
+    "title": "API Docs",
+    "domain": "api-docs.io",
+    "indexed_at": "2025-12-23T17:29:13.324Z"
+  },
+  {
+    "_id": "0f0e6577-202a-4db7-acec-20c8f07f54fd",
+    "url": "https://docs.midtrans.com",
+    "title": "Midtrans Documentation",
+    "domain": "midtrans.com",
+    "indexed_at": "2025-12-23T17:29:21.294Z"
   }
 ]
