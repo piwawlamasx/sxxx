@@ -33,5 +33,12 @@
     "title": "community · Discussions · GitHub",
     "domain": "github.community",
     "indexed_at": "2025-12-23T15:06:04.255Z"
+  },
+  {
+    "_id": "aadd18bd-f61b-47bb-ad2d-fa38700f8991",
+    "url": "https://example.com",
+    "title": "Example Domain",
+    "domain": "example.com",
+    "indexed_at": "2025-12-23T15:17:14.113Z"
   }
 ]
