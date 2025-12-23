@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "domain": "my.id",
+    "count": 4
+  },
+  {
+    "domain": "qzz.io",
+    "count": 1
+  },
+  {
+    "domain": "atlantic-server.com",
+    "count": 1
+  },
+  {
+    "domain": "termai.cc",
+    "count": 1
+  },
+  {
+    "domain": "velyn.mom",
+    "count": 1
+  },
+  {
+    "domain": "cloudkuimages.guru",
+    "count": 1
+  },
+  {
+    "domain": "hanggts.xyz",
+    "count": 1
+  }
+]
