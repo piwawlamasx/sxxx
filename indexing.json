@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "_id": "d7e45750-997b-4d48-872c-93062cb5778d",
+    "url": "https://example.com",
+    "title": "Example Domain",
+    "domain": "example.com",
+    "indexed_at": "2025-12-23T15:04:14.060Z"
+  }
+]
